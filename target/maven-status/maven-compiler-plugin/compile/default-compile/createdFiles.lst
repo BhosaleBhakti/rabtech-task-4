@@ -1,0 +1,8 @@
+com\rabtech\task4\repository\StudentRepository.class
+com\rabtech\task4\Task4Application.class
+com\rabtech\task4\repository\DepartmentRepository.class
+com\rabtech\task4\controller\DepartmentController.class
+com\rabtech\task4\entity\Department.class
+com\rabtech\task4\service\StudentService.class
+com\rabtech\task4\controller\StudentController.class
+com\rabtech\task4\entity\Student.class
